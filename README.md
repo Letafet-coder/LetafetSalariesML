@@ -15,8 +15,10 @@ Unsupervised Kaggle Dosyası Linki: https://www.kaggle.com/code/letafetkarasu/le
   k-Ortalama Kümeleme algoritmamın grafiksel sonucu 
     ![image](https://github.com/user-attachments/assets/878009ea-e66b-4933-934c-37d94749b9b1)  
 
+      Sonuç olarak çapraz doğrulamada aldığım sonuçlar 1.0'lık bir doğrulukla çalışmıştır.Bu, veriye mükemmel bir uyum sağladığını gösteriyor.Fakat model aşırı öğrenmiş  olabilir ve yeni, görülmemiş verilere karşı başarısız olabilir.Gözetimsizde ortalama sonuçlar aldım.
 
-    Sonuç olarak çapraz doğrulamada aldığım sonuçlar 1.0'lık bir doğrulukla çalışmıştır.Bu, veriye mükemmel bir uyum sağladığını gösteriyor.Fakat model aşırı öğrenmiş  olabilir ve yeni, görülmemiş verilere karşı başarısız olabilir.Gözetimsizde ortalama sonuçlar aldım.
+
+    
 
     
 
