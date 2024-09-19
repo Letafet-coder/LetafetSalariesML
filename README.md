@@ -1,7 +1,7 @@
 # LetafetSalariesML
 
 Supervised Kaggle Dosyası Linki: https://www.kaggle.com/code/letafetkarasu/letafetml-supervised  /n 
-Unsupervised Kaggle Dosyası Linki: https://www.kaggle.com/code/letafetkarasu/letafetml-unsupervised   /n
+Unsupervised Kaggle Dosyası Linki: https://www.kaggle.com/code/letafetkarasu/letafetml-unsupervised  /n
 
    San Francisco yüksek yaşam maliyetiyle biliniyor.Bu veri setinde , şehirdeki çeşitli iş unvanlarının kazançlarına nasıl yansıdığını tahmin ettim.Bu verileri inceledim ve Gözetimli Öğrenmede Doğrusal Regresyon kullanmam gerektiğini anladım.Bu algoritmayı korelasyon matrisinde bulduğum pozitif değerlere göre seçtim.Gözetimsiz Öğrenmede k-Ortalama Kümeleme algoritmasını kullandım.  /n
   Veri setinde birden çok float olmayan değerler vardı onlara float değerlere çevirdim.NaN ve null değerleri 0 ile doldurdum.Bazı değerleri drop() ettim çünkü algoritmanın çalışmasını engelliyordu.  /n
